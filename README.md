@@ -1,4 +1,8 @@
 # Bouncy Ball Game
+<p align="center">
+  <img width="460" height="300" src="https://github.com/plnh/Retro-Bouncy-Game/blob/main/screenshot.gif">
+</p>
+:partying_face: My first game :partying_face:
 
 A basic Bouncy Ball style game in Phaser 3
 
@@ -13,9 +17,9 @@ Player win 1 point everytime the ball goes outside of the Computer side
 The ball will increase its speed everytime it hits the wall
 
 # Getting Started
-Install [Phaser 3](https://github.com/photonstorm/phaser) 
+- [ ] Install [Phaser 3](https://github.com/photonstorm/phaser) 
 
-Clone this repository and run:
+- [ ] Clone this repository and run:
 
 ```
 npm install
