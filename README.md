@@ -28,4 +28,6 @@ npm run start
 
 
 # Credits
-I followed this [Tutorial](https://www.youtube.com/playlist?list=PLumYWZ2t7CRvdJJ206QarbisxYPAyYwj0)
+I followed the [Tutorial](https://www.youtube.com/playlist?list=PLumYWZ2t7CRvdJJ206QarbisxYPAyYwj0). 
+
+Please feel free to constribute ! I'm still learning and I hope to get feedback 
